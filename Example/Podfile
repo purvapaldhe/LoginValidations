@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LoginValidations_Example' do
+  pod 'LoginValidations', :path => '../'
+
+  target 'LoginValidations_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
