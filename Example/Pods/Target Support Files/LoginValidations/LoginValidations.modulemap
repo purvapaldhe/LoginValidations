@@ -1,0 +1,6 @@
+framework module LoginValidations {
+  umbrella header "LoginValidations-umbrella.h"
+
+  export *
+  module * { export * }
+}

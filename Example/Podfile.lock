@@ -1,0 +1,16 @@
+PODS:
+  - LoginValidations (0.1.0)
+
+DEPENDENCIES:
+  - LoginValidations (from `../`)
+
+EXTERNAL SOURCES:
+  LoginValidations:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LoginValidations: af3275105865ef5b95499ffbd76e360acffd0397
+
+PODFILE CHECKSUM: d58a124ab426d4928b9c17577bf299ca7fd382ce
+
+COCOAPODS: 1.0.1
